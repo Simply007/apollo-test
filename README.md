@@ -3,7 +3,19 @@ Testing repository for react Apollo - https://www.apollographql.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Getting started
+
+Prerequisites:
+* installed _node_ and _npm_
+
+## How to run the app
+
+1. Clone this repository
+2. Open repository folder
+3. Run `npm install`
+4. Run `npm start` for running the development mode
+
+# Available Scripts
 
 In the project directory, you can run:
 
